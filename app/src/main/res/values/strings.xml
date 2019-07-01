@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">HOPE</string>
+    <string name="tutorial_title1">Olá</string>
+    <string name="tutorial_title2">Você tem o anonimato.</string>
+    <string name="tutorial_title3">&#8230;ou pode ser um herói!</string>
+    <string name="login_success">Logado com sucesso</string>
+    <string name="logoff_success">Deslogado com sucesso</string>
+    <string name="register_success">Registrado com sucesso. Verifique seu e-mail e faça
+        login</string>
+    <string name="login_fail">Não foi possível se logar</string>
+    <string name="apelido_empty">Digite um apelido</string>
+    <string name="genero_empty">Gênero não informado</string>
+    <string name="problema_empty">Problema não informado</string>
+    <string name="internet_fail">Erro com a conexão à internet</string>
+    <string name="tutorial_subtitle1">Por aqui, visamos ajudar pessoas\nque sofrem com depressão,\n
+        solidão e afins.</string>
+    <string name="tutorial_subtitle2">Aqui você pode conversar sobre\nseus problemas com segurança.
+\nPrivacidade é a chave aqui.</string>
+    <string name="tutorial_subtitle3">Você também pode ser um voluntário,\n
+que estará disposto a ajudar alguém!\nEstá pronto(a)?</string>
+    <string name="title_activity_principal1">TELA PRINCIPAL</string>
+    <string name="title_activity_principal2">TELA PRINCIPAL</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">HOPE</string>
+    <string name="nav_header_subtitle">Carregando e-mail&#8230;</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="tv_termos">Ao continuar, você concorda com nossos <u>termos e condições</u>.
+    </string>
+    <string name="tv_esqueceu">Esqueceu a senha?</string>
+    <string name="tv_contato">Problemas? Contate-nos por aqui</string>
+    <string name="action_signout">Sair</string>
+    <string name="action_finalizarChat">Finalizar chat</string>
+    <string name="anonimo_novo_title">Um novo anônimo está disponível!</string>
+    <string name="anonimo_novo_body">Toque aqui para iniciar a conversa.</string>
+    <string name="mensagem_nova">Uma nova mensagem foi recebida</string>
+    <string name="chat_finalizado">O chat foi finalizado</string>
+
+
+    <!--FirebaseAuth Exceptions-->
+    <string name="ERROR_INVALID_CUSTOM_TOKEN">The custom token format is incorrect. Please check
+        the documentation.</string>
+    <string name="ERROR_CUSTOM_TOKEN_MISMATCH">The custom token corresponds to a different
+        audience.</string>
+    <string name="ERROR_INVALID_CREDENTIAL">The supplied auth credential is malformed or has
+        expired.</string>
+    <string name="ERROR_INVALID_EMAIL">The email address is badly formatted.</string>
+    <string name="ERROR_WRONG_PASSWORD">The password is invalid or the user does not have a
+        password.</string>
+    <string name="ERROR_USER_MISMATCH">The supplied credentials do not correspond to the
+        previously signed in user.</string>
+    <string name="ERROR_REQUIRES_RECENT_LOGIN">This operation is sensitive and requires recent
+        authentication. Log in again before retrying this request.</string>
+    <string name="ERROR_ACCOUNT_EXISTS_WITH_DIFFERENT_CREDENTIAL">An account already exists with
+        the same email address but different sign-in credentials. Sign in using a provider
+        associated with this email address.</string>
+    <string name="ERROR_EMAIL_ALREADY_IN_USE">The email addressby another account.</string>
+    <string name="ERROR_CREDENTIAL_ALREADY_IN_USE">This credential is already is already in use
+        associated with a different user account.</string>
+    <string name="ERROR_USER_DISABLED">The user account has been disabled by an administrator
+        .</string>
+    <string name="ERROR_USER_TOKEN_EXPIRED">The user\'s credential is no longer valid. The user
+        must sign in again.</string>
+    <string name="ERROR_USER_NOT_FOUND">There is no user record corresponding to this
+        identifier. The user may have been deleted.</string>
+    <string name="ERROR_INVALID_USER_TOKEN">The user\'s credential is no longer valid. The user
+        must sign in again.</string>
+    <string name="ERROR_OPERATION_NOT_ALLOWED">This operation is not allowed. You must enable
+        this service in the console.</string>
+    <string name="ERROR_WEAK_PASSWORD">The given password is invalid.</string>
+
+    <!--Erros-->
+    <string name="email_usado">O e-mail já está em uso. Por favor, insira outro e-mail</string>
+    <string name="email_errado">E-mail inválido. Por favor, verifique se o e-mail está
+        correto</string>
+    <string name="senha_incorreta">Senha inválida</string>
+    <string name="email_nao_verificado">Você precisa verificar a sua conta acessando o link
+        enviado ao seu e-mail</string>
+    <string name="nao_existe_conta">Não existe uma conta correspondente a este e-mail</string>
+    <string name="edtText_vazio">Digite uma mensagem</string>
+    <string name="edtEmail_vazio">Digite o e-mail</string>
+    <string name="edtSenha_vazio">Digite a senha</string>
+    <string name="edtSenha_6carac">A senha precisa ter 6 ou mais caracteres</string>
+    <string name="edtConfirmar_vazio">Digite a senha novamente</string>
+    <string name="edtConfirmar_errado">As senhas não conferem</string>
+
+
+</resources>
